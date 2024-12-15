@@ -1,0 +1,49 @@
+
+h1{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 40px;
+    font-style: italic;
+}
+a{
+    text-decoration-line: none;
+}
+div.bb{
+    background-color:navy;
+    border: 50% solid blue;
+}
+button{
+   background-color:rgb(90, 50, 255);
+   color: white;
+   letter-spacing: 2px;
+   -webkit-border-before-width: 50%;
+}
+button,h1{
+    border: 50%;
+}
+h2{
+    text-align: center;
+    background-color: rgb(40, 100, 200);
+    font-size: 32px;
+    color: white;
+    font-style: italic;                                                                       
+}
+table.aa{
+    background-color:darkblue;
+}
+div.cc{
+    
+    color: whitesmoke;
+}
+h3{
+    color: navy;
+    background: rgb(106, 106, 252)  
+                                                                                                          blue;
+}
+ p {
+    background-color:rgb(120, 120, 220);
+ }
+ .cc{
+   background-color:  rgb(152, 152, 224);
+ }
